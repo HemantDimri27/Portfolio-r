@@ -1,6 +1,6 @@
 import img1 from '../../assets/mega-blog.png'
 import img2 from '../../assets/todoApp.png'
-import img3 from '../../assets/currency-Converter.png'
+import img3 from '../../assets/currency-converter.png'
 import img4 from '../../assets/weather.png'
 import img5 from '../../assets/youtube-clone.png'
 import img6 from '../../assets/barber-shop.png'
